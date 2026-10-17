@@ -18,7 +18,7 @@ export const works: Work[] = [
     role: 'Webapp / Backend / Frontend',
     summary: '英単語帳とSNSを組み合わせたWebアプリ。',
     description:
-      '英単語帳とSNSを組み合わせたWebアプリ。単語カードを作成・公開し、他ユーザーの帳を見て学べます。',
+      '英単語帳とSNSを組み合わせたWebアプリ。単語カードを作成・公開し、他ユーザーの帳を見て学べます。完全個人開発アプリです。',
     repositoryUrl: 'https://github.com/kousei2071/my-django',
     tags: ['Python', 'Django', 'Study'],
     image: '/works/tankore.webp',
@@ -30,7 +30,7 @@ export const works: Work[] = [
     role: 'Team Dev / Mobile',
     summary: '運動特化型SNS。記録とフィードで共有。',
     description:
-      '運動特化型SNSアプリ。距離・時間・消費カロリーなどを記録し、グローバルとフォロー中のフィードで共有できる。',
+      '運動特化型SNSアプリ。距離・時間・消費カロリーなどを記録し、グローバルとフォロー中のフィードで共有できる。チーム開発アプリです。フロントエンド、要件定義、UIデザインを担当しました。',
     repositoryUrl: 'https://github.com/Tech-Jam-KDG-2026-Winter/Team-5-React-Frontend',
     tags: ['React', 'Django', 'Tech Jam'],
     image: '/works/stride.webp',
